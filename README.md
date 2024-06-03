@@ -45,6 +45,7 @@ o	The LED array connected to the Arduino board will illuminate based on the inte
 o	Open the serial monitor in the Arduino IDE to view graphical representations of muscle movement data in real time.
 
 **Conclusion**
+
 The EMG Muscle Movement Detection System provides a flexible solution for real-time monitoring and analyzing skeletal muscle activity. Combining EMG sensors, surface electrodes, and an Arduino Uno R3 board allows for accurate detection and visualization of muscle contractions.
 
 
