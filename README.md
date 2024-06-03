@@ -36,12 +36,12 @@ o	The serial monitor will display real-time muscle movement data graphically.
 
 **Usage**
 1.	Power On:
-o	Power the system by connecting the Arduino Uno R3 board to a power source.
-2.	Muscle Movement Detection:
+2.	 Power the system by connecting the Arduino Uno R3 board to a power source.
+3.	Muscle Movement Detection:
 o	The EMG sensors and surface electrodes will detect muscle contractions upon power-up.
-3.	LED Array Visualization:
+4.	LED Array Visualization:
 o	The LED array connected to the Arduino board will illuminate based on the intensity and duration of muscle contractions detected.
-4.	Data Visualization:
+5.	Data Visualization:
 o	Open the serial monitor in the Arduino IDE to view graphical representations of muscle movement data in real time.
 
 **Conclusion**
